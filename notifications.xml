@@ -5,6 +5,7 @@
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Indexing" />
     <notification groupId="Plugins AutoSwitch" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
