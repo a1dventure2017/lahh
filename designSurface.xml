@@ -18,6 +18,8 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication/app/src/main/res/layout/popup_rate.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication/app/src/main/res/layout/popup_unlock.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/bg_frame_search.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication6/app/src/main/res/layout/activity_app_lock_pattern.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication6/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication7/app/src/main/res/layout/activity_app_lock_pattern.xml" value="0.16" />
@@ -35,6 +37,18 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/activity_setting.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/dialog_lock_select_time.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/dialog_permission.xml" value="0.12" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/dialog_search.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/fragment_app_list.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/fragment_camera2.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/item_lock_list.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/item_lock_top.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/item_main_list.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/layout_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/layout_toolbar_title.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/layout/pop_unlock_menu.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/lockforme/lockforme/app/src/main/res/menu/menu_create_pwd.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/drawable/click_button.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.11041666666666666" />
