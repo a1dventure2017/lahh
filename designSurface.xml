@@ -74,7 +74,16 @@
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/layout/activity_pattern_lock.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/layout/my_view.xml" value="0.22" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout-land/recyclerviewrow_alarmslist.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout-small/activity_ringalarm.xml" value="0.3550531914893617" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_addalarm.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_alarmslist.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_ringalarm.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_ringtonepicker.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/frag_alarm_details_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/frag_alarmdetails_datepicker.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/frag_alarmdetails_datepicker_scrollview.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/recyclerviewrow_alarmslist.xml" value="0.1" />
       </map>
     </option>
   </component>
