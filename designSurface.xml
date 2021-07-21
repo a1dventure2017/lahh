@@ -135,6 +135,10 @@
         <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/ic_action_settings.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/ic_build_grey_24dp.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/selector_bottombar_item.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/layout/app_authentication.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/layout/app_item.xml" value="0.1" />
       </map>
     </option>
   </component>
