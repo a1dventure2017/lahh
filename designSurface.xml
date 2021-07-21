@@ -100,6 +100,11 @@
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/layout/activity_pattern_lock.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjectsaasd/Applock/app/src/main/res/layout/my_view.xml" value="0.22" />
+        <entry key="..\:/Users/user/Downloads/AppLocker-main/AppLocker-main/app/src/main/res/drawable/ic_compare_arrows_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/AppLocker-main/AppLocker-main/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/AppLocker-main/AppLocker-main/app/src/main/res/drawable/ic_sync_black_24dp.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/AppLocker-main/AppLocker-main/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/AppLocker-main/AppLocker-main/app/src/main/res/drawable/spinner_background.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/drawable/alarm_cancel_btn_background.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/drawable/button_border_ring.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout-land/frag_alarmdetails_main_scrollview.xml" value="0.1" />
@@ -121,6 +126,12 @@
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/recyclerviewrow_alarmslist.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/menu/activity_alarmlist_menu.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/menu/activity_ringtonepicker_menu.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable-anydpi/ic_action_locked.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/border_background.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/ic_action_apps.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/ic_action_settings.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/ic_build_grey_24dp.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/user/Downloads/appLocker-master(3)/appLocker-master/app/src/main/res/drawable/selector_bottombar_item.xml" value="0.11041666666666666" />
       </map>
     </option>
   </component>
