@@ -109,7 +109,7 @@
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_ringalarm.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_ringtonepicker.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_ringtonepicker_scrollview.xml" value="0.1" />
-        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_settings.xml" value="0.15" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_settings_expand_shakeoptions.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_settings_expand_snoozeoptions.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/activity_settings_scrollview.xml" value="0.1" />
@@ -119,6 +119,7 @@
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/frag_alarmdetails_main_scrollview.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/layout/recyclerviewrow_alarmslist.xml" value="0.1" />
         <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/menu/activity_alarmlist_menu.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/ShakeAlarmClock-master/ShakeAlarmClock-master/app/src/main/res/menu/activity_ringtonepicker_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
